@@ -2,7 +2,7 @@
 
 ### - Description -
 
->  A user on Ghost Town created a game that he claims no one can beat.
+> A user on Ghost Town created a game that he claims no one can beat.
 Check out the game and find the flag hidden inside. Submit the flag
 as: flag{flag-goes-here}. 
 
