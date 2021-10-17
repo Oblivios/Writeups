@@ -2,9 +2,12 @@
 
 ### - Description -
 
->  
-> 
-> 
+>  Apparently DEADFACE is recruiting programmers, but spookyboi is a little apprehensive about recruiting amateurs.
+He's placed a password hash in the form of a flag for those able to solve his challenge. Solve the challenge and submit
+the flag as flag{SHA256_hash}.
+
+> `code.deadface.io:50000`
+> (We were given a link to a thread which wasn't that useful for this challenge)
 
 ### - Solution -
 
