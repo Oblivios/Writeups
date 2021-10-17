@@ -320,4 +320,6 @@ So I basically just printed/called the function `gs()` at the start of the game,
 
 flag{CaNT_ch34t_d34th}
 
+Here's a picture of the result:
+
 ![Result](https://user-images.githubusercontent.com/68814228/137636549-20ff9adf-cf2a-43b8-94fc-75e3065c4828.png)
