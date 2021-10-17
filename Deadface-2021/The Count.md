@@ -6,6 +6,8 @@
 > 
 > 
 
+### - Solution -
+
 I first tried to connect to the IP address, by doing `nc code.deadface.io 50000`, and I saw that it was generating random words.
 
 So I decided to create a python script, who would connect to the IP address and the port, who would retrieve the word, and then do what the challenge asks us to do.
