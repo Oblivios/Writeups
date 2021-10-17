@@ -2,7 +2,7 @@
 
 ### - Description -
 
->  Apparently DEADFACE is recruiting programmers, but spookyboi is a little apprehensive about recruiting amateurs.
+> Apparently DEADFACE is recruiting programmers, but spookyboi is a little apprehensive about recruiting amateurs.
 He's placed a password hash in the form of a flag for those able to solve his challenge. Solve the challenge and submit
 the flag as flag{SHA256_hash}.
 
