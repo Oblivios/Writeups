@@ -7,6 +7,7 @@ He's placed a password hash in the form of a flag for those able to solve his ch
 the flag as flag{SHA256_hash}.
 
 > `code.deadface.io:50000`
+
 > (We were given a link to a thread which wasn't that useful for this challenge)
 
 ### - Solution -
