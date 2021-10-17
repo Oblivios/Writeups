@@ -8,7 +8,7 @@ the flag as flag{SHA256_hash}.
 
 > `code.deadface.io:50000`
 
-> (We were given a link to a thread which wasn't that useful for this challenge)
+> (We were also given a link to a thread which wasn't that useful for this challenge)
 
 ### - Solution -
 
