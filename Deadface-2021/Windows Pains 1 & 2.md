@@ -20,9 +20,12 @@ following command:
 `python vol.py -f ~/CTF/physmemraw imageinfo`
 
 And we get:
+
 ![Windows Pains 1](https://user-images.githubusercontent.com/68814228/137789506-977acac3-1c0e-4484-ba5a-29f514826a2f.png)
 
 So we assume that the flag is: flag{Windows10_64_20210907145744}
+
+---
 
 ### - Description ~ Windows Pains 2 -
 
@@ -38,6 +41,7 @@ I've done the following command:
 `python vol.py -f ~/CTF/physmemraw --profile=Win10x10941 envars | grep "COMPUTERNAME"`
 
 Result:
+
 ![Windows Pains 2](https://user-images.githubusercontent.com/68814228/137793730-08496158-2433-4fe2-8dd0-67217c44a544.png)
 
 So the flag is: flag{DESKTOP-IT8QNRI}
