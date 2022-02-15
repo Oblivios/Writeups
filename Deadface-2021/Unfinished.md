@@ -22,7 +22,7 @@ This one is easy, we have to call the function `get_flag()`
 
 So we have to modify the last line:
 
-`print(f'The flag is: '+get_flag())`
+`print(f'The flag is: {get_flag()}')`
 
 Here's a picture of the code and the result:
 
