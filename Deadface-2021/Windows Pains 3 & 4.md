@@ -15,7 +15,7 @@ To find the malicious process, we're gonna use the plugin of volability called "
 ![Windows Pains 3 Malfind](https://user-images.githubusercontent.com/68814228/137811296-34c7b478-e815-4d31-bfae-ce6bc02f136b.png)
 
 It returns to us something like 8/9 processes, but we can see that there's the one who's there 5 times, which is userinit.exe, who seems suspicious.
-So now, what we have to do is dump this proces (get a look to the screen of Windows Pains 4), to get it to our machine, and analyze it with VirusTotal.
+So now, what we have to do is dump this process (get a look to the screen of Windows Pains 4), to get it to our machine, and analyze it with VirusTotal.
 
 ![Windows Pains 3 Malicious](https://user-images.githubusercontent.com/68814228/137811286-c4dfe538-95ee-4078-8f02-0dc5da35b493.png)
 
